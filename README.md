@@ -9,5 +9,4 @@ Make use of your IDRAC possible and convenient, built around a local java 7 JRE 
 - Pure bash, no sudo, just needs java
 
 # Demo
-![image](https://user-images.githubusercontent.com/8705480/179899750-2dfe0463-7ab0-45ae-9c12-0e826871d021.png)
-
+![image](https://user-images.githubusercontent.com/8705480/179900409-5125b0e2-441e-4add-ada3-a3ade31ec00b.png)
