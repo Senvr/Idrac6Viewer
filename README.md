@@ -1,0 +1,1 @@
+Have java installed in so that `which java` returns the path to the `java` binary, or (preferrably) download Java JRE 7 and place it at the root folder of the script. See the env files for more details
