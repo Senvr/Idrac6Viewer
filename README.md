@@ -7,3 +7,7 @@ Automatically adds certificate of idrac host to java keytool
 Downloads and extracts avctKVM, avctKVM and avctKVMIO libraries for hightened functionality
 Fully customizable arguments for all occasions
 Pure bash, no sudo, just needs java
+
+# Demo
+![image](https://user-images.githubusercontent.com/8705480/179899750-2dfe0463-7ab0-45ae-9c12-0e826871d021.png)
+
